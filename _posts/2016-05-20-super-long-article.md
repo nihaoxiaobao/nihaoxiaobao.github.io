@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "谈谈未来经济发展（修订加长版）"
-categories: misc
+
 ---
 
 谈谈未来经济发展（修订加长版）
