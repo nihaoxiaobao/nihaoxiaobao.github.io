@@ -1,75 +1,12 @@
----
-layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
-author: Jeffrey
-categories: jekyll
-banner:
-  video: https://vjs.zencdn.net/v/oceans.mp4
-  loop: true
-  volume: 0.8
-  start_at: 8.5
-  image: https://bit.ly/3xTmdUP
-  opacity: 0.618
-  background: "#000"
-  height: "100vh"
-  min_height: "38vh"
-  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
-  subheading_style: "color: gold"
-tags: jekyll theme yat
-top: 1
-sidebar: []
----
-
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-## section 1
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-## section 2
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-
-$ a \* b = c ^ b $
-
-$ 2^{\frac{n-1}{3}} $
-
-$ \int_a^b f(x)\,dx. $
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-  cout << "Hello World!";
-  return 0;
-}
-// prints 'Hi, Tom' to STDOUT.
-```
-
-```python
-class Person:
-  def __init__(self, name, age):
-    self.name = name
-    self.age = age
-
-p1 = Person("John", 36)
-
-print(p1.name)
-print(p1.age)
-```
+现在的经济
+ 本文章内容大框如下，先聊聊过去，再展望未来，最后说普通人如何在此当中寻找机会。（所有新加的内容都用橙色字体标注出来，方便已经读过此篇的读者重新阅读）
+我还记得在2020年的时候，我在公司年会上讲：“美团王兴在去年的时候就从微博上发了一句话，他说2019年是过去十年当中最差的一年，但是会是未来十年当中最好的一年。”这句话我用来做演讲的开头，还在PPT上用很大的字呈现出来。到了今天，一语成谶。
+好多创业老板和我聊天的时候都在讨论，今年经济比去年还要差。我这个人比较喜欢研究现象背后的底层逻辑，我认为经济一定不是今天才差的，就像恒大暴雷，它也不是一天之内突然就炸掉的，一定是很久很久以前就出现了隐患。经济周期就像一年四季一样不停轮换，经历了春天的自由生长就得要遭受严寒的洗礼，没有什么东西会只涨不跌，会只好不坏，好梦由来最易醒。
+在希望的田野上我们迎来了改革开放，整个国家进入到了一个国运上升期，开始一瞬百顺，虽然中间经历了物价闯关这样的弯路，但丝毫不影响时代的车轮滚滚向前，2001年我们又加入了WTO，每年都在保持两位数的GDP增长。这就好像人进入了青春期，身体越来越强壮，个子越来越高，大脑变成越来越好用，国家也是如此。
+直到2007年美国次贷危机席卷全球，我国经济增速快速回落，三驾马车中的出口遇到负增长，大批农民工返乡。为了扩大内需，政府出台了“四万亿计划”，四万亿计划只是民间说法，官方叫十项政策，总投资四万亿而已。其实可以简单的理解，大基建时代来临。经济学上有一个很好用的工具，叫做凯恩斯主义，通俗讲叫挖坑理论。官方投资出钱挖一个大坑，这个时候工人开工有钱拿了，工人拿到了钱去消费，去吃饭，饭店也开张了，慢慢的各行各业开始进入正向循环。然后官方再出钱把坑填上，工人又能多拿一份钱。所以经济就像水一样，需要循环起来流动起来，它才能活。那么搞基建其实就是通过砸钱让民间经济流动起来。但是有一个问题，凯恩斯主义已经被证明是有缺陷的，也就是“财富结构失衡”。官方出面找人挖坑，不能直接找到工人，而且转包出去，先包给承建商，再往下分包，这个过程中大部分的钱其实被中间环节拿走了，而多数人参加劳动无法获得与之匹配的酬劳，但是消费活动是需要靠这些人支撑才能维系再生产，结果就是产能过剩和消费不足引发的通缩螺旋。消费不足不是因为大家没有消费意愿而是没有薪资收入支撑的消费能力。而且当中间环节的利益集团不断壮大，逐渐盘根错节地固化，反过来会影响政策的制订，阻碍社会变革。
+社会就像一个巨大的漏斗，真正能触达到底层的钱少之又少。但是天量的投资计划如同大水漫灌，会推高整个国家的货币总量，所以政府有一个想法，建立货币蓄水池，这个池子就是楼市。其实关于房价上涨有两种说法，一种是1993年的分税制改革，大部分的税收收归中央，地方变成了土地财政，不得不通过提高土地出让金来赚钱。还有一种说法，就是因为货币太多，如果流到民生领域会推高物价，所以只能引导这些钱流向房地产，以时间换空间，通过经济快速发展，让这些钱慢慢被稀释。其实两种说法都很正确，任何一个现象级的事件绝非一种单一因素造就的。
+但是高昂的房价会对其他的消费有挤出效应，房价上涨带来的繁荣是虚假的繁荣。房子作为接近于刚需的商品，他的上涨只会伤害底层人民，一个月赚的再多，大部分也要交给房贷，可消费的就会变少，看似人均收入不少，但是消费年年下滑。
+我看还有人说房子涨到一百万一平也跟普通人没关系，这句话实在是蠢得彻底。在同一个国家货币体系下的一切商品，必然存在着天然的联系。比方说，诞生一个超级富豪，拥有十万亿资金，他只要有足够的钱，就可以买下这个国家90%以上的鸡蛋，那么鸡蛋价格就会翻很多很多倍，这是供需关系问题。鸡蛋会涨，蔬菜也会涨，水果也会涨，到最后都会锚定房价水涨船高。
+现在中国的货币，有一部分在楼市里，有另外一部分在居民储蓄里，有一数据，今年居民总存款约145万亿，也就是人均11万多，这些钱并没有流通起来，躺在银行里空转。但是大家查查银行存款都清楚，其实大部分人并没有达到这个数，是被平均了。其实这是一个再分配的问题，如何减轻社会不平等，确保资源和收入更公平的分配给不同的社会群体，国家任重而道远。
+其实我们现在面临一个周期性的衰退，在口罩之前，地方债务问题、企业债务问题、个人债务问题就已经很严重了，纯粹是游得太快了内裤追不上。金融产品在那段时间高歌猛进，P2P、私募、公募、虚拟货币、校园贷、信用贷等等横空出世，全社会都在加杠杆。但是杠杆加上去总得有卸下来的那天，于是赶上口罩来了，现金流都转不动了，大量债务问题开始不断暴雷。很多人有个误区，并不是官方在限制房地产，而是房地产已经变成了昨日黄花。那一刻迟早会来，无论大家愿不愿意，它一样会来，就像时代的车轮滚滚向前，不是一只螳螂伸出手臂就能阻挡的。
+刚才我说了通缩螺旋，其实就是两个恶性循环叠加到了一起，第一个恶性循环是，口罩来了以后，企业的现金流压力陡然增加，导致大家收入下降，个
